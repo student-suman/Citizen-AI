@@ -99,9 +99,3 @@ Citizen AI is a modern civic engagement platform built with React and Express, d
 - PostgreSQL database (Neon Database recommended)
 - Environment variables for API keys and database connections
 - Static file serving for frontend assets
-
-## User Preferences
-
-```
-Preferred communication style: Simple, everyday language.
-```
