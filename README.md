@@ -100,13 +100,6 @@ Citizen AI is a modern civic engagement platform built with React and Express, d
 - Environment variables for API keys and database connections
 - Static file serving for frontend assets
 
-## Changelog
-
-```
-Changelog:
-- June 30, 2025. Initial setup
-```
-
 ## User Preferences
 
 ```
